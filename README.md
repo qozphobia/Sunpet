@@ -86,7 +86,7 @@ Every **5 levels**, a special rainbow pulse animation plays.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[your-username]/sunpet-wio-terminal.git
+git clone https://github.com/qozphobia/Sunpet.git
 
 # 2. Open in Arduino IDE
 #    File → Open → sunpet.ino
